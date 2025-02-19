@@ -1,6 +1,6 @@
 import { FaArrowRight } from "react-icons/fa6";
 import { NavLink } from "react-router-dom";
-import logo from "../assets/images/Property 1=DarkThemedLogo.svg";
+// import logo from "../assets/images/Property 1=DarkThemedLogo.svg";
 import { LuMenu } from "react-icons/lu";
 import { IoClose } from "react-icons/io5";
 import { useState } from "react";
@@ -16,7 +16,7 @@ export default function Nav() {
   return (
     <section className="w-full fixed backdrop-blur-[100px] bg-white bg-opacity-40 z-20">
       <div className="flex justify-between items-center pt-[20px] px-5 max-w-[1400px] mx-auto p-2 ">
-        <img className="w-44 lg:mr-[100px]" src={logo} alt="/" />
+        <img className="w-44 lg:mr-[100px]" src="" alt="/" />
         <ul className="justify-center font-medium  hidden lg:flex">
           <li className="mx-6">
             <NavLink
