@@ -1,6 +1,5 @@
 import { FaArrowRight } from "react-icons/fa6";
 import { NavLink } from "react-router-dom";
-// import logo from "../assets/images/Property 1=DarkThemedLogo.svg";
 import { LuMenu } from "react-icons/lu";
 import { IoClose } from "react-icons/io5";
 import { useState } from "react";
